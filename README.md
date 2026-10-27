@@ -113,6 +113,10 @@ The API hash is never written to disk. The only Telegram calls that change anyth
 python -m unittest -v    # selection rule, day boundaries and DST, config validation, batching, manifest and progress files
 ```
 
+## License
+
+[PolyForm Noncommercial 1.0.0](LICENSE.md). You may use, modify and share this for **non-commercial** purposes: personal use, hobby projects, research, education, charities and government. Selling it or using it commercially isn't allowed. This makes it source-available rather than OSI open source. For commercial use, open an issue.
+
 ## Disclaimer
 
-Not affiliated with Telegram. Deleting messages is irreversible; review the dry run carefully. Use at your own risk.
+Not affiliated with Telegram. Deleting messages is irreversible; review the dry run carefully. Use at your own risk; the software comes with no warranty (see [LICENSE.md](LICENSE.md)).
