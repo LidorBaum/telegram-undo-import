@@ -1,0 +1,11 @@
+{
+  "self_user_id": 0,
+  "target_user_id": 0,
+  "date": "2026-10-27",
+  "timezone": "UTC",
+  "batch_size": 100,
+  "delay_seconds": 2.0,
+  "flood_wait_margin_seconds": 5,
+  "max_retries": 5,
+  "session_name": "cleanup_session"
+}

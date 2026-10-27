@@ -1,0 +1,10 @@
+# Session file = full access to the Telegram account. Never commit or share.
+data/
+*.session
+*.session-journal
+config.json
+.env
+*.log
+.venv/
+__pycache__/
+.DS_Store
